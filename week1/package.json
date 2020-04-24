@@ -1,0 +1,16 @@
+{
+  "name": "ku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.7.9",
+    "json": "^9.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xinran",
+  "license": "ISC"
+}
